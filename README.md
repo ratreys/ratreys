@@ -1,6 +1,9 @@
 ### Hi, I'm Rey—a frustrated web developer 😣	
 
-Currently learning how to build a BEAUTIFUL and FAST website (no WordPress please!). I'm documenting what I learn at [reyortilla.me](https://reyortilla.me)
+Currently learning how to build a BEAUTIFUL and FAST website (no WordPress please!). I'm documenting what I learn at:
+\
+\
+[reyortilla.me](https://reyortilla.me)
 
 #### What else?
 * Currently working as a Digital Ad Optimizer (AdOps)
