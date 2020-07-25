@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Rey—a frustrated web developer 😣	
+
+Currently learning how to build a BEAUTIFUL and FAST website (no WordPress please!). I'm documenting what I learn at [reyortilla.me](https://reyortilla.me)
+
+#### What else?
+* Currently working as a Digital Ad Optimizer (AdOps)
+* Once a teacher (senior high school)
+* I love (😍) typography
+* Huge fan of self-mastery
+* Owns an affiliate WordPress site (the niche is controversial) hosted at [Closte](https://closte.com/) and is using [GeneratePress](https://github.com/tomusborne/GeneratePress) theme.
 
 <!--
 **reyortilla/reyortilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
