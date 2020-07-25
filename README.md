@@ -3,7 +3,7 @@
 Currently learning how to build a BEAUTIFUL and FAST website. I'm documenting what I learn at:
 \
 \
-[reyortilla.me](reyortilla.me)
+[reyortilla.me](http://reyortilla.me)
 
 #### What else?
 * Currently working as a Digital Ad Optimizer (AdOps)
