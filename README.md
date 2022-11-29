@@ -1,16 +1,15 @@
-### Hi, I'm Rey—a frustrated web developer.
+# Hi, I'm Rey — a frustrated web developer.
 
-Currently learning how to build a BEAUTIFUL and FAST website. I'm documenting what I learn at:
+Currently learning how to build BEAUTIFUL and FAST websites. I'm documenting what I learn at:
 \
 \
 [ReyOrtilla.me](http://reyortilla.me)
 
-#### What else?
-* Currently working as a Digital Ad Optimizer (AdOps)
-* Once a teacher (senior high school)
-* I love (😍) typography
-* Obsessed with the idea of self-mastery
-* Owns an affiliate WordPress site (controversial niche) hosted at [Closte](https://closte.com/) and is using [GeneratePress](https://github.com/tomusborne/GeneratePress) theme.
+## What else?
+* Once a teacher (senior high school).
+* I love (😍) typography.
+* Obsessed with the idea of self-mastery.
+* Own — and earn — a WordPress site hosted at [Closte](https://closte.com/) and is using [Blocksy](https://creativethemes.com/blocksy/) theme.
 
 <!--
 **reyortilla/reyortilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
