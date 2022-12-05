@@ -1,6 +1,6 @@
 # Hi, I'm Rey — a frustrated web developer.
 
-Currently learning how to build BEAUTIFUL and FAST websites. I'm documenting what I learn at:
+Currently learning how to build websites with an emphasis on ACCESSIBILITY, READABILITY, and SPEED. I'm documenting what I learn at:
 \
 \
 [ReyOrtilla.me](http://reyortilla.me)
