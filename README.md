@@ -1,9 +1,6 @@
 # Hi, I'm Rey — a frustrated web developer.
 
-Currently learning how to build websites with an emphasis on ACCESSIBILITY, READABILITY, and SPEED. I'm documenting what I learn at:
-\
-\
-[ReyOrtilla.me](http://reyortilla.me)
+Currently learning how to build websites with an emphasis on ACCESSIBILITY, READABILITY, and SPEED.
 
 ## What else?
 * Once a teacher (senior high school).
