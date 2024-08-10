@@ -1,12 +1,12 @@
 # Hi, I'm Rey — a frustrated web developer.
 
-Currently learning how to build websites with an emphasis on ACCESSIBILITY, READABILITY, and SPEED.
+Currently learning front-end web development with an emphasis on accessibility, readability, and speed.
 
 ## What else?
 * Once a teacher (senior high school).
 * I love (😍) typography.
 * Obsessed with the idea of self-mastery.
-* Own — and earn — a WordPress site hosted at [Closte](https://closte.com/) and is using [Blocksy](https://creativethemes.com/blocksy/) theme.
+* Own — and earn — 4 WordPress sites.
 
 <!--
 **reyortilla/reyortilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
