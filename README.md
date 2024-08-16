@@ -3,10 +3,10 @@
 Currently learning front-end web development with an emphasis on accessibility, readability, and speed.
 
 ## What else?
-* Once a teacher (senior high school).
-* I love (😍) typography.
 * Obsessed with the idea of self-mastery.
-* Own — and earn — 4 WordPress sites.
+* Once a senior high-school math teacher.
+* I love (😍) typography.
+* Own 4 WordPress sites and earn via ads.
 
 <!--
 **reyortilla/reyortilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
