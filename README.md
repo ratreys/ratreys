@@ -1,12 +1,12 @@
 # Hi, I'm Rey — a frustrated web developer.
 
-Currently learning front-end web development with an emphasis on accessibility, readability, and speed.
+Currently learning front-end web development using [Svelte](https://github.com/sveltejs).
 
 ## What else?
 * Obsessed with the idea of self-mastery.
 * Once a senior high-school math teacher.
 * I love (😍) typography.
-* Own 4 WordPress sites and earn via ads.
+* Own 2 WordPress sites and earn via ads.
 
 <!--
 **reyortilla/reyortilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
